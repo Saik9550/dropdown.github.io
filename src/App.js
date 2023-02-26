@@ -4,7 +4,7 @@ import Dropdown from "./Dropdown";
 import './index.css'
 
 function App() {
-
+  // pasing below array as props to Dropdown Component
   const dropdownitems=['Yes','Probably No']
   return (
     <div className="container">

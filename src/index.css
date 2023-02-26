@@ -6,6 +6,15 @@
   padding-bottom: 40px;
   position: relative;
 }
+.contain{
+  
+  background: rgb(9, 185, 185);
+  height:55%;
+  text-align: center;
+  padding-bottom: 40px;
+  position: relative;
+
+}
 
 .btn {
   background: white;
